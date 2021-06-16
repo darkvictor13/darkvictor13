@@ -1,6 +1,6 @@
 # Olá Mundo 👋
 
-Meu nome é Victor Emanuel Almeida, estudante de Ciência da computação na Unioeste.
+Meu nome é Victor Emanuel Almeida, estudante de ciência da computação na Unioeste.
 
 # Estatísticas
 
@@ -13,6 +13,14 @@ Meu nome é Victor Emanuel Almeida, estudante de Ciência da computação na Uni
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkvictor13&theme=radical&layout=compact" />
 </a>
+
+# Trabalhos da faculdade
+## [Algoritmos e Estrutura de Dados 1](https://github.com/darkvictor13/Primeiro-Trab-AED)
+## [Algoritmos e Estrutura de Dados 2](https://github.com/Marco-Guerra/Store-Products-Registry)
+## [Algoritmos e Estrutura de Dados 3](https://github.com/darkvictor13/Terceiro-Trab-AED)
+## [Organização e Arquitetura de Computadores](https://github.com/darkvictor13/RISC-V-Playground)
+Link para a documentação do software: https://darkvictor13.github.io/RISC-V-Playground/
+
 
 
 
