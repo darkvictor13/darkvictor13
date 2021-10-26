@@ -19,19 +19,12 @@ Bolsista do Laboratório LabIoT, desenvolvendo o software embarcado para uma est
 </p>
 
 # Estatísticas
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkvictor13&show_icons=true&theme=radical" />
-</a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkvictor13&count_private=true&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkvictor13&theme=radical&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=darkvictor13&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=darkvictor13&theme=radical&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Linguagens mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkvictor13&langs_count=6&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkvictor13&theme=radical&layout=compact" />
-</a>
 
 # Trabalhos da faculdade
 ## Algoritmos e Estrutura de Dados
