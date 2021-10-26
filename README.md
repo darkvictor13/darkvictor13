@@ -20,7 +20,9 @@ Bolsista do Laboratório LabIoT, desenvolvendo o software embarcado para uma est
 
 # Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkvictor13&count_private=true&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkvictor13&theme=radical&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=darkvictor13&theme=radical&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkvictor13&langs_count=6&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
